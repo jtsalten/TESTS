@@ -1,4 +1,7 @@
 Version 0 of test2.txt
 Version 1 of test2.txt done in my laptop
 Version 2 of test2.txt done in my laptop
+<<<<<<< HEAD
 Version 3??? .. desde mi laptop... no me deberÃa de dejar porque hay una v3 creada en el portal
+Version 3 of test2.txt done in web portal
+>>>>>>> 4df1a26a01925131ac1195c3ed39fdde855c9b8a
